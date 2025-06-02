@@ -1,7 +1,6 @@
 name = "telegram-cloudflare-bot"
-main = "index.js"
 compatibility_date = "2025-06-02"
 
 kv_namespaces = [
-  { binding = "TEAM_KV", id = "اینجا آیدی namespace که ساختی رو بذار" }
+  { binding = "TEAM_KV", id = "d6b5deb860bb43378043b3296607ba1c" }
 ]
