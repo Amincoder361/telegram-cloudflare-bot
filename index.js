@@ -1,4 +1,4 @@
-const TOKEN = "7113984877:AAFfi5hKmOMG4fgPhzV6_YVSXxiF-iqQif0";
+const TOKEN = "7113984877:AAEydlvWVX0rwUy8ZLkrFXSEg4sjO-dGuO4";
 const ADMIN_USERNAME = "Aminw_xd";
 
 const API_URL = `https://api.telegram.org/bot${TOKEN}`;
